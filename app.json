@@ -1,0 +1,12 @@
+{
+  "name": "halloinsta",
+  "displayName": "halloinsta",
+  "expo": {
+    "name": "halloinsta",
+    "slug": "halloinsta",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
